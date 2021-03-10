@@ -39,6 +39,7 @@ Product at Sourcegraph consists of [product management](product_management/index
   - [All RFC documents](https://drive.google.com/drive/folders/1zP3FxdDlcSQGC1qvM9lHZRaHH4I9Jwwa) (Google Drive)
   - [How we use RFCs](../communication/rfcs/index.md)
 - [Product learnings](product_learning.md)
+- [Product licensing](licensing.md)
 
 ### Metrics
 
